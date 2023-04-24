@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @B-Maanasa
-- 👀 I’m interested in ...  Learning how to code in different langages.
-- 🌱 I’m currently learning ... Java, web development, Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... learning more about tech emerging on computers.
+- 🌱 I’m currently learning ...ML, NLP.
 - 📫 How to reach me ...padmamaanasab2@gmail.com 
 
 <!---
